@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am doing the Computational Science master at EPFL. I am intersted in ML, Cloud and Web development.
+Computational Science master student at EPFL. I am intersted in ML, Cloud and Web development.
 
 
 ## 🌐 Socials:
